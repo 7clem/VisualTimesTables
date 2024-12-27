@@ -1,2 +1,4 @@
 
 .DS_Store
+*.odg#
+.~lock.tables.ods\#
