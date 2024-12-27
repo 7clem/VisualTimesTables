@@ -13,6 +13,9 @@ Planches illustrées à afficher à l'école présentant visuellement, en 3D, de
 - [nombres.pdf](nombres.pdf)
 - [nombres.odg (LibreOffice)](nombres.odg)
 
+### Source
+- [sources sur github](https://github.com/7clem/VisualTimesTables)
+
 ### Observation
 Beaucoup d'enfants ont des difficultés à apprendre les tables de multiplication.
 
